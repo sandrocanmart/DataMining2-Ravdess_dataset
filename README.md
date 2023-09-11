@@ -11,7 +11,7 @@ personal research perspective (from choosing a subset of variables to
 the class to predict…). You are welcome in creating new variables and 
 performing all the pre-processing steps the dataset needs.
 #### Outliers
-1. - Identify the top 1% outliers: adopt at least three different methods 
+1. Identify the top 1% outliers: adopt at least three different methods 
 from different families (e.g., density-based, angle-based…) and 
 compare the results. 
 2. Visualize the outliers in a 2 or 3d scatter plot using at least one 
